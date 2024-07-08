@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite (18/20)
 
 Para configurar o tailwind:
   https://tailwindcss.com/docs/guides/vite
